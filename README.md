@@ -47,7 +47,7 @@ Consistent development throughout your final two years is necessary in order to 
 
 ## Preparing for Employment
 
-You should prepare for employment by tailoring your resume, portfolio, and your interview responses to the standards of technical sales positions. Focus on engineering projects, internships, and experiences that involve customer engagement. If you talk about technical projects, explain what the issue was, your method, and what the outcome was. Practicing technical interview questions can help communicate your qualifications clearly. You can present yourself as someone who is capable of understanding both the product and people-side
+You should prepare for employment by tailoring your resume, portfolio, and your interview responses to the standards of technical sales positions. Focus on engineering projects, internships, and experiences that involve customer engagement. If you talk about technical projects, explain what the issue was, your method, and what the outcome was. Practicing technical interview questions can help communicate your qualifications clearly. You can present yourself as someone who is capable of understanding both the product and people-side.
 
 ## References
 
