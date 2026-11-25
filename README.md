@@ -27,13 +27,13 @@ CSS 301 | Fall 2026
 
 ## Purpose
 
-There's more than just understanding of electrical engineering principles when pursuing a career in technical sales. You need to know how to communicate technical information effectively, know your customer's needs, and show how engineering products can satisfy their needs. Your coursework will build your technical foundation, however you need more professional development to help set you apart from other applicants. Having experience throughout your final two years as an electrical engineering student further develops your technical and interpersonal skills which is crucial for sales engineers [^1]. This report outlines best practices for developing necessary knowledge, professional skills, and experience to pursue a career in technical sales engineering.
+There's more than just understanding electrical engineering principles when pursuing a career in technical sales. You need to know how to communicate technical information effectively, know your customer's needs, and show how engineering products can satisfy their needs. Your coursework will build your technical foundation, however you need more professional development to help set you apart from other applicants. Having experience throughout your final two years as an electrical engineering student further develops your technical and interpersonal skills which is crucial for sales engineers [^1]. This report outlines best practices for developing necessary knowledge, professional skills, and experience to pursue a career in technical sales engineering.
 
 ## Developing Technical Expertise
 
 The best way to develop technical expertise is through projects and hands-on experimentation. For example, building circuits, testing different electrical components, or even using different simulation software can help build your ability to evaluate different types of engineering products. 
 
-**Build a portfolio study around a design decision.** You should use a personal project of circuit lab and record the requirement, any alternatives you considered, and measurements that support your choice. For example, you could compare two filters using gain at the frequency you want to preserve and the frequency you want to suppress.
+**Build a portfolio study around a design decision.** You should use a personal project or circuit lab and record the requirement, any alternatives you considered, and measurements that support your choice. For example, you could compare two filters using gain at the frequency you want to preserve and the frequency you want to suppress.
 
 ## Building Communication and Sales Skills
 
@@ -47,7 +47,7 @@ That same circuit could support different recommendations based on what a custom
 
 ## Gaining Professional Experience
 
-Pursing an internship in sales engineering gives you an environment where technical choices have an affect on someone else's work. UW Bothell's engineering capstone offers opportunities to work on projects that are supplied by local companies [^2]. In either setting, you could see how client's requirements affect what you build, test, and explain.
+Pursing an internship in technical sales gives you an environment where technical choices have an affect on someone else's work. UW Bothell's engineering capstone offers opportunities to work on projects that are supplied by local companies [^2]. In either setting, you could see how client's requirements affect what you build, test, and explain.
 
 **Prioritize positions and projects that combine technical work and customer-facing work.** You should look for roles that include responsibilities such as demonstrating equipment, measuring results, or even helping somebody choose between different components. You should ask recruiters or mentors who uses that work and how you receive feedback for it.
 
@@ -68,4 +68,4 @@ Technical sales postings might emphasize product demonstrations, or communicatin
 [^1]: U.S. Bureau of Labor Statistics, "Sales Engineers," U.S. Bureau of Labor Statistics, 27 August 2026. [Online]. Available: https://www.bls.gov/ooh/sales/sales-engineers.htm. [Accessed 27 October 2026].
 [^2]: University of Washington Bothell, “Capstones,” School of Science, Technology, Engineering & Mathematics, n.d. [Online]. Available: https://www.uwb.edu/stem/industry-partners/capstones-internships. [Accessed Nov. 24, 2026].
 [^3]: Comstock, Doug. Personal interview. 22 October 2026.
-[word count: 696]
+[word count: 695]
