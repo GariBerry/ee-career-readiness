@@ -3,6 +3,10 @@
 
 **A Two-Year Career Preparation Plan**
 
+<img src="ee-lab-cover.jpg" width="720" alt="Electrical engineering lab station with an oscilloscope and other bench instruments">
+
+<sub>© JohnRH4, <a href="https://commons.wikimedia.org/wiki/File:Electrical_Engineering_Lab_Station_(3955361228).jpg">Electrical Engineering Lab Station</a>, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</sub>
+
 Gari Garcia  
 University of Washington Bothell  
 CSS 301 | Fall 2026
