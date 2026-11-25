@@ -51,4 +51,4 @@ You should prepare for employment by tailoring your resume, portfolio, and your 
 
 ## References
 
-[1] U.S. Bureau of Labor Statistics, "Sales Engineers," U.S. Bureau of Labor Statistics, 27 August 2026. [Online]. Available: https://www.bls.gov/ooh/sales/sales-engineers.htm. [Accessed 27 October 2026].
+[^1] U.S. Bureau of Labor Statistics, "Sales Engineers," U.S. Bureau of Labor Statistics, 27 August 2026. [Online]. Available: https://www.bls.gov/ooh/sales/sales-engineers.htm. [Accessed 27 October 2026].
